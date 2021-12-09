@@ -1,0 +1,72 @@
+/Projet/
+  |----index.php 		
+  |----style.css
+  |----inscription.php 		
+  |----profilU.php 		
+  |----profilA.php 		
+  |----rules.php 		
+  |----contact.php 		
+  |----adminsong.php 		
+  |----adminuser.php 		
+  |----adminmod.php 		
+  |----appsong.js		
+  |----/Components/
+  |		|----contactform.php 		
+  |		|----sliders.php
+  |		|----footer.php
+  |		|----reglement.php 		
+  |		|----/Config/
+  |		|	|----config.php
+  |		|----/Countdown/
+  |		|	|----countdown.php
+  |		|	|----countdown.js
+  |		|----/Log/
+  |		|	|----login.php 		
+  |		|	|----logout.php 	
+  |		|----/Nav/
+  |		|	|----navP.php
+  |		|	|----navU.php
+  |		|	|----navA.php
+  |		|----/Admin/
+  |			|----notifs.php 	
+  |			|----recap.php 		
+  |			|----validatesong.php 	
+  |			|----validateuser.php 	
+  |			|----modifyuser.php 	
+  |----/Ressources/
+  |		|----longuenesse-logo.png
+  |		|----star-mic.png
+  |		|----min-menu.png
+  |		|----top.png 			
+  |		|----x.png			
+  |		|----fbsc.png 			
+  |		|----lisc.png 			
+  |		|----igsc.png 			
+  |		|----/Slide/
+  |			|----1.jpg
+  |			|----2.jpg
+  |			|----3.jpg
+  |			|----4.jpg
+  |			|----5.jpg
+  |			|----6.jpg
+  |			|----7.jpg
+  |			|----8.jpg
+  |			|----9.jpg
+  |			|----10.jpg
+  |			|----11.jpg
+  |			|----12.jpg
+  |			|----13.jpg
+  |			|----14.jpg
+  |			|----15.jpg
+  |			|----16.jpg
+  |			|----17.jpg
+  |			|----18.jpg
+  |			|----19.jpg
+  |			|----20.jpg
+  |			|----21.jpg
+  |			|----22.jpg
+  |			|----23.jpg
+  |			|----24.jpg
+  |			|----25.jpg
+  |			|----26.jpg
+-------------------------------------------------------

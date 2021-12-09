@@ -1,0 +1,22 @@
+body
+    {
+    margin: 0;
+    background: cadetblue;
+    }
+.content
+    {
+    width: 88%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-sizing: content-box;
+    color: black;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.4);
+    text-align: center; 
+    }
